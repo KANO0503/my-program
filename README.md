@@ -5,9 +5,9 @@
 <img src ="data.jpg">
 
 ## pandas 데이터 분석
- *내용:
- *파일명:
- *[코드](pandas_pra.ipynb)
+ * 내용:간단한 데이터 분석 프로그램
+ * 파일명:pandas_pra.ipynb
+ * [코드](pandas_pra.ipynb)
 
 
  
