@@ -13,4 +13,4 @@ response = requests.get(image_url)
 img = Image.open(BytesIO(response.content))
 
 # 이미지 표시
-st.image(img, caption='Uploaded Image', use_column_width=True)
+st.image(img, caption='Uploaded Image', use_column_width=True)pip install streamlit
